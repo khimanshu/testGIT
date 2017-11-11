@@ -1,5 +1,9 @@
 hi this is a test file for GIT
 test 2
 test 3
+<<<<<<< HEAD
 test4
 test 5
+=======
+test4
+>>>>>>> d4bbdd9186031ca67a3f6de10956f8df5fae77a4
